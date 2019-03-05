@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29" started-at="2019-02-21T10:18:58Z" finished-at="2019-02-21T10:18:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29" started-at="2019-02-21T10:18:58Z" finished-at="2019-02-21T10:18:58Z">
+      <class name="FirstDemo">
+        <test-method status="PASS" signature="a()[pri:3, instance:FirstDemo@d8355a8]" name="a" duration-ms="6" started-at="2019-02-21T10:18:58Z" finished-at="2019-02-21T10:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="s()[pri:3, instance:FirstDemo@d8355a8]" name="s" duration-ms="1" started-at="2019-02-21T10:18:58Z" finished-at="2019-02-21T10:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s -->
+        <test-method status="PASS" signature="p()[pri:0, instance:FirstDemo@d8355a8]" name="p" is-config="true" duration-ms="1" started-at="2019-02-21T10:18:58Z" finished-at="2019-02-21T10:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p -->
+      </class> <!-- FirstDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
